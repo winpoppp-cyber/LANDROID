@@ -8,6 +8,7 @@
     "ghcr.io/devcontainers/features/rust:1": {},
     "ghcr.io/devcontainers/features/sshd:1": {
       "version": "latest"
-    }
+    },
+    "ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {}
   }
 }
